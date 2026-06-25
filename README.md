@@ -7,8 +7,8 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hajrasarwar/)
-[![GitHub Main](https://img.shields.io/badge/GitHub-hajrasarwar11-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hajrasarwar11)
-[![GitHub Alt](https://img.shields.io/badge/GitHub-hajrasarwar22-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hajrasarwar22)
+[![GitHub](https://img.shields.io/badge/GitHub-hajrasarwar11-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hajrasarwar11)
+[![GitHub](https://img.shields.io/badge/GitHub-hajrasarwar22-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hajrasarwar22)
 [![Email](https://img.shields.io/badge/Email-hajrasarwar11%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hajrasarwar11@gmail.com)
 [![Live App](https://img.shields.io/badge/Live%20App-AI%20Hash%20Crack%20Defense-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://ai-hash-crack-defense.streamlit.app)
 
@@ -18,47 +18,44 @@
 
 ## 👩‍💻 About Me
 
-Motivated **Software Engineering student** with hands-on experience in AI-integrated systems, full-stack web development, database engineering, and cloud computing. Currently interning in **Cybersecurity** at Horizon Tech Services (NSTP, NUST). Previously built a multi-model database engine with AI chatbot integration at MCS-inotech. Passionate about building scalable, intelligent software solutions that solve real-world problems.
-
-📍 Rawalpindi, Pakistan &nbsp;|&nbsp; 📞 +92 327 5007883 &nbsp;|&nbsp; 🎓 FJWU — BSc SE, 6th Semester (2023–2027)
+Software Engineering student with hands-on experience in AI-integrated systems, full-stack web development, database engineering, and cloud computing. Currently interning in **Cybersecurity** at Horizon Tech Services (NSTP, NUST). Passionate about building scalable, intelligent software solutions that solve real-world problems.
 
 ---
 
 ## 💼 Work Experience
 
 ### 🔐 Cybersecurity Intern — Horizon Tech Services, NSTP NUST *(2026 – Present)*
-> *Horizon Tech Services is a cybersecurity-focused company based at NSTP (National Science & Technology Park), NUST Islamabad — providing advanced security solutions including vulnerability assessments, threat monitoring, and information security services.*
-- Working on cybersecurity projects in a professional NSTP-based tech environment
-- Gaining hands-on exposure to information security practices, tools, and real-world security challenges
+- Hands-on exposure to information security practices and real-world cybersecurity challenges
+- Working on security projects in a professional NSTP-based tech environment
 
-### 🛠️ Software Engineering Intern — MCS-inotech, Rawalpindi *(Feb 2026 – Apr 2026)*
+### 🛠️ Software Engineering Intern — MCS-inotech, Rawalpindi *(Feb – Apr 2026)*
 - Built a **multi-model Database Engine** from scratch supporting Graph, Table, and Document data models
-- Integrated an **AI Chatbot** into the database engine for natural language querying (similar to VS Code Copilot)
-- Developed a fully **offline AI chatbot using Ollama** for local, privacy-first intelligent interactions
+- Integrated an **AI Chatbot** for natural language querying (similar to VS Code Copilot)
+- Developed a fully **offline AI chatbot using Ollama** for local, privacy-first interactions
 - Authored and reviewed **SRS documents** and technical documentation
 
 ### 🌐 Web Developer (Community Work) — Radio Pakistan, Islamabad *(2026)*
-- Designed and developed a **dynamic, data-driven website** with real-time content management and interactive features
+- Designed and developed a dynamic, data-driven website with real-time content management
 
 ---
 
-## 🚀 Academic Projects
+## 🚀 Projects
 
 | Project | Domain | Description | Tech |
 |--------|--------|-------------|------|
-| 🔐 [**AI Hash Crack Defense System**](https://ai-hash-crack-defense.streamlit.app) | InfoSec · AI | Live Streamlit app — AI-powered defense against hash-cracking with real-time visualization | Python, Streamlit, bcrypt |
-| 🤖 **AIRECRUIT** | ML · NLP | AI-powered resume screening & candidate role recommendation system | Python, scikit-learn, NLP |
-| 🗄️ **Multi-Model Database Engine** | DB · AI | Graph + Table + Document DB engine with integrated AI natural language interface | Python, Ollama |
-| 🌊 **Natural Disaster Prediction System** | AI · React | Real-time flood & earthquake prediction dashboard with live data visualization | React, ML |
-| 🏥 **Student Mental Health System** | Full-Stack · DB | Full-stack app with structured relational database backend | C#, SQL Server |
-| 🌐 **Cloud Website Deployment** | Cloud · AWS | Deployed website on AWS with cloud hosting, storage, and CI/CD pipeline | AWS |
-| 🏕️ **University Campus Network** | Networking | Multi-server campus network with VLANs, inter-VLAN routing, DNS, FTP, Web & Email servers | Cisco Packet Tracer |
-| ✈️ **Travel Agency Management System** | Software Engineering | Full system architecture with UML diagrams (use case, sequence, communication, component) | UML, SE Design |
-| 💻 **Full-Stack Web Apps** | Web Dev | Portfolio, To-Do, Calculator, CRUD, News, and E-Commerce apps | HTML, CSS, JS, PHP, MySQL, React |
+| 🔐 [**AI Hash Crack Defense**](https://ai-hash-crack-defense.streamlit.app) | InfoSec · AI | Live app — AI-powered defense against hash-cracking with real-time visualization | Python, Streamlit, bcrypt |
+| 🤖 **AIRECRUIT** | ML · NLP | AI-powered resume screening & candidate role recommendation | Python, scikit-learn, NLP |
+| 🗄️ **Multi-Model Database Engine** | DB · AI | Graph + Table + Document DB with integrated AI natural language interface | Python, Ollama |
+| 🌊 **Natural Disaster Prediction** | AI · React | Real-time flood & earthquake prediction dashboard | React, ML |
+| 🏥 **Student Mental Health System** | Full-Stack · DB | Full-stack application with structured relational database backend | C#, SQL Server |
+| 🌐 **Cloud Website Deployment** | Cloud · AWS | Website deployed on AWS with cloud hosting, storage, and CI/CD pipeline | AWS |
+| 🏕️ **Campus Network Configuration** | Networking | Multi-server network with VLANs, inter-VLAN routing, DNS, FTP, Web & Email servers | Cisco Packet Tracer |
+| ✈️ **Travel Agency Management System** | SE Design | Full system architecture with UML diagrams | UML |
+| 💻 **Full-Stack Web Apps** | Web Dev | Portfolio, To-Do, CRUD, News, E-Commerce apps | HTML, CSS, JS, PHP, MySQL, React |
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
 **Languages**
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -80,7 +77,7 @@ Motivated **Software Engineering student** with hands-on experience in AI-integr
 **AI / ML**
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
 
 **Cloud & Networking**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
@@ -89,7 +86,6 @@ Motivated **Software Engineering student** with hands-on experience in AI-integr
 
 **Tools**
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
@@ -100,9 +96,9 @@ Motivated **Software Engineering student** with hands-on experience in AI-integr
 
 | Certification | Issuer | Status |
 |---|---|---|
-| MEAN/MERN Full Stack (International) | PSDF — Cryptic Solutions, Rawalpindi | 🔄 Ongoing |
-| AI & Machine Learning (International) | NAVTTC — Corvit Systems, Rawalpindi | ✅ Completed |
-| Web Designing | TEVTA, Rawalpindi | ✅ Completed |
+| MEAN/MERN Full Stack (International) | PSDF — Cryptic Solutions | 🔄 Ongoing |
+| AI & Machine Learning (International) | NAVTTC — Corvit Systems | ✅ Completed |
+| Web Designing | TEVTA | ✅ Completed |
 
 ---
 
@@ -117,20 +113,6 @@ Motivated **Software Engineering student** with hands-on experience in AI-integr
 
 ---
 
-## 🎓 Education
-
-| Degree | Institution | Year |
-|---|---|---|
-| BSc Software Engineering (6th Sem, Ongoing) | Fatima Jinnah Women University, Rawalpindi | 2023 – 2027 |
-| FSc Pre-Engineering | Army Public School & College FWO, Rawalpindi | 2020 – 2022 |
-| Matriculation (Science) | Army Public School & College FWO, Rawalpindi | 2018 – 2020 |
-
----
-
 <div align="center">
-
-*"Building intelligent systems, one commit at a time."*
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer" />
-
 </div>
